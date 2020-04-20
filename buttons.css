@@ -1,0 +1,38 @@
+.buttons{
+padding: 6px 19px 6px 19px ;
+margin: 0 11px 11px 0;
+font-size: 17.28px;
+border-radius: 3.24px;
+font-weight: 548;
+line-height: 25.92px;
+text-align: center;
+white-space: nowrap;
+align-items: center;
+display: inline-flex;
+
+}
+
+#Lecture {
+	background-color: #ffffff;
+	color: black;
+}
+#Plusinfos{
+	background-color: rgba(87,85,84,0.75);
+	color:#ffffff;
+
+
+}
+
+#Lecture:hover{
+  background-color: #d0d0d0;
+  transition: 0.5s;
+}
+
+#Plusinfos:hover{
+  background-color: #373c3d;
+  transition: 0.5s;
+
+}
+
+
+

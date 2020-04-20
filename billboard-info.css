@@ -1,0 +1,46 @@
+.billboard-info{
+	padding: 0 4%;
+    top: 600px;
+    bottom: 35%;
+    left: 4%;
+    margin-top: 70px;
+    width: 36%;"
+}
+
+.supplemental{
+line-height: 1.2;
+-webkit-font-smoothing: antialiased;
+cursor: default;
+font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+user-select: none;
+font-size: 1.6vw;
+color: #fff;
+font-weight: bold;
+-webkit-transition: color 1s cubic-bezier(0.165, 0.84, 0.44, 1);
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.45);
+margin: 1vw 0;
+display: -webkit-flex;
+-webkit-align-items: center;
+}
+
+
+.billboard-info p {
+	color: #fff;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 20.16px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.45);
+    margin-top: .1vw;
+
+#lecture {
+    height:38.8438px;
+    width:135.297px;
+}
+
+.billboard-info a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff;
+}
+
+

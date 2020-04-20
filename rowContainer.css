@@ -1,0 +1,32 @@
+.title-card-container:hover {
+	transform: scale(1.9);
+	transition: 0.9s;
+}
+
+color: #fff;
+line-height: 1.2;
+-webkit-font-smoothing: antialiased;
+user-select: none;
+cursor: default;
+font-size: 0.75vw;
+font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+z-index: 1;
+transition: transform 0.54s cubic-bezier(0.5, 0, 0.1, 1) 0s, -webkit-transform 0.54s cubic-bezier(0.5, 0, 0.1, 1) 0s, -moz-transform 0.54s cubic-bezier(0.5, 0, 0.1, 1) 0s, -o-transform 0.54s cubic-bezier(0.5, 0, 0.1, 1) 0s;
+position: relative;
+margin: 3vw 0;
+padding: 0;
+box-sizing: border-box;
+
+
+color: #fff;
+line-height: 1.2;
+-webkit-font-smoothing: antialiased;
+user-select: none;
+cursor: default;
+font-size: 0.75vw;
+font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+white-space: nowrap;
+
+document.querySelector("#row-1 > div > div > div > div > div")`
+
+document.querySelector("#appMountPoint > div > div > div:nth-child(1) > div.bd.dark-background > div.pinning-header > div > div")
